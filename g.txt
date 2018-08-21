@@ -1,0 +1,6 @@
+if = se for
+else=  se não for 
+sempre colocar 
+console.log
+while =enquanto
+mudar todos ctrrl alt f2
